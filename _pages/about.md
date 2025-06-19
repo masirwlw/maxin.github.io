@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. Kun Qian](https://eecsqian.com/) of 
 
 You can find my CV here: [MaXin's Curriculum Vitae](../assets/cvmaxin.pdf).
 
-[Email](mailto:maxin_wlw@163.com) / [Github](https://github.com/masirwlw) / [Wechat](../images/wechat.png) / [CSDN](https://blog.csdn.net/weixin_63281014?type=blog)
+[Email](mailto:maxin_wlw@163.com) / [Github](https://github.com/masirwlw) / ![Wechat](../images/wechat.png) / [CSDN](https://blog.csdn.net/weixin_63281014?type=blog)
