@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic Pages"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a first year undergraduate student from [School of EECS](https://smt.bit.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a first year undergraduate student from [School of Medical Technology](https://smt.bit.edu.cn/), [Beijing Institute of Technology](https://www.pku.edu.cn/). My research interests include computational auditory perception, physiological signal processing, machine learning, and deep learning.
+ 
+I am very fortunate to be advised by [Prof. Kun Qian](https://eecsqian.com/) of Brain Health Intelligence Lab from [School of Medical Technology](https://smt.bit.edu.cn/), Beijing Institute of Technology. I was advised by [Assoc.Prof.Cong Yang](https://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec87076342b017076bbe7130014) from [School of Cyberspace Security](https://softschool.zzu.edu.cn/), Zhengzhou University.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+You can find my CV here: [Maxin's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:maxin_wlw@163.com) / [Github](https://github.com/masirwlw) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/weixin_63281014?type=blog)
 
 A data-driven personal website
 ======
