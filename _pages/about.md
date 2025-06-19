@@ -11,6 +11,6 @@ I'm a first year undergraduate student from [School of Medical Technology](https
  
 I am very fortunate to be advised by [Prof. Kun Qian](https://eecsqian.com/) of Brain Health Intelligence Lab from [School of Medical Technology](https://smt.bit.edu.cn/), Beijing Institute of Technology. I was advised by [Assoc.Prof.Cong Yang](https://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec87076342b017076bbe7130014) from [School of Cyberspace Security](https://softschool.zzu.edu.cn/), Zhengzhou University.
 
-You can find my CV here: [MaXin's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [MaXin's Curriculum Vitae](../assets/cv.pdf).
 
 [Email](mailto:maxin_wlw@163.com) / [Github](https://github.com/masirwlw) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/weixin_63281014?type=blog)
