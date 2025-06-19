@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "maxin.png"
+  avatar           : "maxin1.png"
   name             : "MaXin"
   pronouns         : # example: "he"  
   bio              : "Nothing is impossible to a willing heartr"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Haidian District, Beijing"
+  employer         : "Beijing Institute of Technology"
   uri              : # URL
   email            : "maxin_wlw@163.com" 
 
